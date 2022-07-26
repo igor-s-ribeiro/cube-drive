@@ -1,0 +1,19 @@
+body, html {
+  heigth: 100%;
+  background-color: #DCDCDC;
+}
+
+main {
+  display: grid;
+  place-items: center;
+  height: 100%;
+}
+
+canvas {
+  cursor: move;
+  width: 100%;
+  heigth: 100%;
+  max-width: 300px;
+  max-height: 300px;
+  background-color: #DCDCDC;
+}
